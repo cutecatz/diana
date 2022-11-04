@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(242, 206, 244);
+}
+
+.diana {
+    text-align: center;
+    font-family: Lucida handwriting;
+    font-size: 56px;
+    color:rgb(32, 29, 19);
+}
+
+.diana__image {
+    max-width: 350px;
+    max-height: 350px;
+    min-width: 350px;
+    min-height: 350px;
+    display: inline;
+    margin: auto;
+}
+
+.diana_image2 {
+    max-width: 350px;
+    max-height: 350px;
+    min-width: 350px;
+    min-height: 350px;
+    display: inline;
+    margin: auto;
+}
+
+.diana_image3 {
+    max-width: 350px;
+    max-height: 350px;
+    min-width: 350px;
+    min-height: 350px;
+    display: inline;
+    margin: auto;
+}
+
+.Text1:hover {
+    text-decoration: underline;
+    color:green;
+}
+
+.Text2:hover {
+    text-decoration: underline;
+    color: green;
+}
